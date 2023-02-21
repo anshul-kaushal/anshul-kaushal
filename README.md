@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm a recent graduate from the University of British Columbia in the Master of Data Science Computational Linguistics program, I'm currently looking for opportunities in the data science and associated domain to undertake work that can potentially positively impact lives and help refine my skillset at an industrial scale. 
+I'm a recent graduate from the University of British Columbia in the Master of Data Science Computational Linguistics program, currently looking for opportunities in the data science and associated domain to undertake work that can potentially positively impact lives and help refine my skillset at an industrial scale. 
 
 Notable Skills:
 
